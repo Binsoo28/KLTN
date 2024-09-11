@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="wSGbdAQIMpa3ETqWKFMJ">
+    <mxGraphModel dx="795" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-1" target="OLEcayt2YFLi4PAU0LYV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-2" target="OLEcayt2YFLi4PAU0LYV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-2" value="Tiền xử lý ảnh &amp;amp; dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-3" target="OLEcayt2YFLi4PAU0LYV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-3" value="Nhận dữ liệu từ camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-6" value="Tiền xử lý ảnh &amp;amp; dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-8" value="Sử dụng ML để nhận diện đối tượng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-10" target="OLEcayt2YFLi4PAU0LYV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-10" value="Phát hiện sự kiện, phân tích sự kiện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-13" target="OLEcayt2YFLi4PAU0LYV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-13" target="OLEcayt2YFLi4PAU0LYV-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457.5" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-13" value="Kiểm tra kết quả phân tích?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-15" value="Lưu trữ kết quả(CSDL)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OLEcayt2YFLi4PAU0LYV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="347.5" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-18" target="OLEcayt2YFLi4PAU0LYV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-18" value="Hiển thị giao diện người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="930" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-21" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLEcayt2YFLi4PAU0LYV-22" target="OLEcayt2YFLi4PAU0LYV-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.5" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527.5" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-22" value="Tiếp tục phân tích" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-24" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-28" value="Gửi dữ liệu qua API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLEcayt2YFLi4PAU0LYV-29" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1020" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
